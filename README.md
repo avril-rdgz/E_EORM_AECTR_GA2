@@ -5,8 +5,8 @@ Dependencies:
 * Q6 + 7 -> Q8
 
 Exercise allocation:
-* Q1+7+8, LaTeX / Formatting - Popijn
-* Q2+3 - Avril (will work on 30/09)
+* Q1+7+8, LaTeX - Popijn
+* Q2+3, data prep - Avril (will work on 30/09)
 * Q4+5 - Peggy (will work on 03/10)
 * Q6 - Sofia (will work on 04/10)
 
